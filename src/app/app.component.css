@@ -1,0 +1,15 @@
+h1 {
+    color: blue;
+}
+button {
+    color: red;
+}
+td {
+    background: lightblue;
+    padding: 40px;
+}
+th {
+    background: gray;
+    color: white;
+    padding: 40px;
+}
